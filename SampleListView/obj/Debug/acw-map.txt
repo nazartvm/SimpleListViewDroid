@@ -1,0 +1,4 @@
+SampleListView.MainActivity, SampleListView;md5538efafc564e31f6e1648091e31b2e08.MainActivity
+SampleListView.MainActivity, SampleListView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5538efafc564e31f6e1648091e31b2e08.MainActivity
+SampleListView.MainActivity;md5538efafc564e31f6e1648091e31b2e08.MainActivity
+samplelistview.MainActivity;md5538efafc564e31f6e1648091e31b2e08.MainActivity
